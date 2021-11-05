@@ -1,0 +1,46 @@
+body {
+  background-color: #A2DBFA;
+}
+h1{
+  font:  small-caps bold 24px/1 sans-serif;
+  font-size: 50px;
+  color: #04009A;
+}
+h2{
+  font-size: 40px;
+  color: #04009A;
+}
+
+p{
+  font: italic small-caps bold 16px/2 cursive;
+  font-size: 20px;
+  color: #610094;
+}
+hr{
+  border-color: #22577A;
+  border-style: dotted none none;
+  width: 10%;
+  height: 2px;
+  border-width: 10px;
+}
+li{
+  font: italic small-caps bold 16px/2 cursive;
+}
+img{
+  border-radius: 50%;
+  border-style: double;
+  border-width: 5px;
+  border-color: #04009A ;
+  height: 300px;
+}
+thead{
+  font-size: 30px;
+  color: #04009A;
+}
+td{
+  font-size: 20px;
+  font-style: bold;
+}
+table{
+  color: #610094;
+}
